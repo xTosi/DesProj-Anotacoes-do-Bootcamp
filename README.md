@@ -1,17 +1,17 @@
 # Repositório destinado a armazenameto das anotações do bootcamp da DIO "Carrefour Web Developer" :man_technologist:
 
-- ### Módulo 2
+- ### Módulo 2 
 
-  HTML/CSS
+  HTML/CSS (Não iniciado)
 
 - ### Módulo 3
 
-  Javascript
+  Javascript (Não iniciado)
 
 - ### Módulo4
 
-  ReactJS
+  ReactJS (Não iniciado)
 
 - ### Módulo 5
 
-  JAVA/SpringBoot
+  JAVA/SpringBoot (Não iniciado)
