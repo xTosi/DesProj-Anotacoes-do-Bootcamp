@@ -12,6 +12,6 @@
 
   ReactJS (Não iniciado)
 
-- ### Módulo 5
+- ### Módulo 5 (Repositório não criado)
 
   JAVA/SpringBoot (Não iniciado)
